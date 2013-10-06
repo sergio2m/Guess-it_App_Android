@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Guess it</string>
+    <string name="action_settings">Settings</string>
+    <string name="jugar">Juegar</string>
+    <string name="autor">-- Sergio Martínez Más --</string>
+    <string name="menu">Menú</string> 
+    <string name="salir">Salir</string>
+    <string name="titulo">Guess it</string>
+    <string name="subtitulo">Aprende Jugando!!</string>
+    <string name="instrucciones">Elige un tema para continuar con el juego. Tienes 8 oportunidades para acertar la palabra.</string>
+    <string name="animales">LOS ANIMALES</string>
+    <string name="colores">LOS COLORES</string>
+    <string name="naturaleza">LA NATURALEZA</string>
+    <string name="numeros">LOS NUMEROS</string>
+    <string name="frutas">LAS FRUTAS</string>
+    <string name="cuerpoHumano">EL CUERPO HUMANO</string>
+    <string name="vestuario">EL VESTUARIO</string>
+    <string name="hogar">COSAS DEL HOGAR</string>
+    <string name="escolar">MATERIAL ESCOLAR</string>
+    <string name="gana">¡¡FELICIDADES HAS ACERTADO!!</string>
+    <string name="pierde">LO SIENTO, LA PALABRA ERA:</string>
+    <string name="entradaTexto">Indique las palabras</string>
+    <string name="entradaTextoSpain">Palabra en Español</string>
+    <string name="entradaTextoEnglish">Palabra en Inglés</string>
+    <string name="nombreTabla">Nombre de la tabla</string>
+     <string name="animalesMI">Animales</string>
+    <string name="coloresMI">Colores</string>
+    <string name="naturalezaMI">Naturaleza</string>
+    <string name="numerosMI">Numeros</string>
+    <string name="frutasMI">Frutas</string>
+    <string name="cuerpoHumanoMI">Cuerpo Humano</string>
+    <string name="vestuarioMI">Vestuario</string>
+    <string name="hogarMI">Hogar</string>
+    <string name="escolarMI">Escuela</string>
+    <string name="selecciona">Selecciona una tabla</string>
+    
+    
+
+</resources>

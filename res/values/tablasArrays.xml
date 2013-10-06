@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="animales">
+        <item >gato</item>
+        <item >caballo</item>
+        <item >conejo</item>
+        <item >cerdo</item>
+        <item >delfin</item>
+        <item >perro</item>
+        <item >pez</item>
+        <item >ratón</item>
+        <item >mono</item>
+        <item >loro</item>
+    </string-array>
+    <string-array name="animals">
+        <item >cat</item>
+        <item >horse</item>
+        <item >rabbit</item>
+        <item >pork</item>
+        <item >dolphin</item>
+        <item >dog</item>
+        <item >fish</item>
+        <item >mouse</item>
+        <item >monkey</item>
+        <item >parrot</item>
+    </string-array>
+    <string-array name="numeros">
+        <item >uno</item>
+        <item >dos</item>
+        <item >tres</item>
+        <item >cuatro</item>
+        <item >cinco</item>
+        <item >seis</item>
+        <item >siete</item>
+        <item >ocho</item>
+        <item >nueve</item>
+        <item >diez</item>
+    </string-array>
+    <string-array name="numbers">
+        <item >one</item>
+        <item >two</item>
+        <item >three</item>
+        <item >four</item>
+        <item >five</item>
+        <item >six</item>
+        <item >seven</item>
+        <item >eight</item>
+        <item >nine</item>
+        <item >ten</item>
+    </string-array>
+    <string-array name="colores">
+        <item >rojo</item>
+        <item >verde</item>
+        <item >azul</item>
+        <item >amarillo</item>
+        <item >blanco</item>
+        <item >negro</item>
+        <item >naranja</item>
+        <item >rosa</item>
+        <item >violeta</item>
+        <item >marrón</item>
+    </string-array>
+    <string-array name="colors">
+        <item >red</item>
+        <item >green</item>
+        <item >blue</item>
+        <item >yellow</item>
+        <item >white</item>
+        <item >black</item>
+        <item >orange</item>
+        <item >pink</item>
+        <item >violet</item>
+        <item >brown</item>
+    </string-array>
+    <string-array name="naturaleza">
+        <item >árbol</item>
+        <item >mar</item>
+        <item >rio</item>
+        <item >flor</item>
+        <item >tierra</item>
+        <item >cielo</item>
+        <item >bosque</item>
+        <item >hoja</item>
+        <item >sol</item>
+        <item >luna</item>
+    </string-array>
+    <string-array name="nature">
+        <item >tree</item>
+        <item >sea</item>
+        <item >river</item>
+        <item >flower</item>
+        <item >land</item>
+        <item >sky</item>
+        <item >forest</item>
+        <item >leaf</item>
+        <item >sun</item>
+        <item >moon</item>
+    </string-array>
+    <string-array name="frutas">
+        <item >cereza</item>
+        <item >fresa</item>
+        <item >naranja</item>
+        <item >manzana</item>
+        <item >platano</item>wardrobe
+        <item >pera</item>
+        <item >melón</item>
+        <item >sandia</item>
+        <item >uva</item>
+        <item >piña</item>
+    </string-array>
+    <string-array name="fruits">
+        <item >cherry</item>
+        <item >strawberry</item>
+        <item >orange</item>
+        <item >apple</item>
+        <item >banana</item>
+        <item >pear</item>
+        <item >melon</item>
+        <item >watermelon</item>
+        <item >grape</item>
+        <item >pineapple</item>
+    </string-array>
+    <string-array name="cuerpoHumano">
+        <item >cabeza</item>
+        <item >mano</item>
+        <item >pie</item>
+        <item >ojo</item>
+        <item >oreja</item>
+        <item >nariz</item>
+        <item >boca</item>
+        <item >diente</item>
+        <item >cara</item>
+        <item >corazón</item>
+    </string-array>
+    <string-array name="body">
+        <item >head</item>
+        <item >hand</item>
+        <item >foot</item>
+        <item >eye</item>
+        <item >ear</item>
+        <item >nose</item>
+        <item >mouth</item>
+        <item >tooth</item>
+        <item >face</item>
+        <item >heart</item>
+    </string-array>
+    <string-array name="vestuario">
+        <item >falda</item>
+        <item >camisa</item>
+        <item >pantalón</item>
+        <item >calcetín</item>
+        <item >sombrero</item>
+        <item >vestido</item>
+        <item >zapato</item>
+        <item >guante</item>
+        <item >bufanda</item>
+        <item >abrigo</item>
+    </string-array>
+    <string-array name="wardrobe">
+        <item >skirt</item>
+        <item >shirt</item>
+        <item >pants</item>
+        <item >sock</item>
+        <item >hat</item>
+        <item >dress</item>
+        <item >shoe</item>
+        <item >glove</item>
+        <item >scarf</item>
+        <item >coat</item>
+    </string-array>
+    <string-array name="hogar">
+        <item >cama</item>
+        <item >mesa</item>
+        <item >silla</item>
+        <item >ventana</item>
+        <item >puerta</item>
+        <item >cocina</item>
+        <item >piscina</item>
+        <item >dormitorio</item>
+        <item >baño</item>
+        <item >armario</item>
+    </string-array>
+    <string-array name="home">
+        <item >bed</item>
+        <item >table</item>
+        <item >chair</item>
+        <item >window</item>
+        <item >door</item>
+        <item >kitchen</item>
+        <item >pool</item>
+        <item >bedroom</item>
+        <item >bathroom</item>
+        <item >wardrobe</item>
+    </string-array>
+    <string-array name="escuela">
+        <item >lápiz</item>
+        <item >cuaderno</item>
+        <item >libro</item>
+        <item >profesor</item>
+        <item >pizarra</item>
+        <item >tijeras</item>
+        <item >pegamento</item>
+        <item >borrador</item>
+        <item >sacapuntas</item>
+        <item >bolígrafo</item>
+    </string-array>
+    <string-array name="school">
+        <item >pencil</item>
+        <item >notebook</item>
+        <item >book</item>
+        <item >teacher</item>
+        <item >slate</item>
+        <item >fork</item>
+        <item >glue</item>
+        <item >draft</item>
+        <item >sharpener</item>
+        <item >pen</item>
+    </string-array>
+    
+</resources>

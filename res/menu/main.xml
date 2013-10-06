@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/MenuInsertar"
+        android:icon="@drawable/menu_insertar"
+        android:title="Insertar palabra">
+    </item>
+    <item
+        android:id="@+id/MenuEliminar"
+        android:icon="@drawable/menu_eliminar"
+        android:title="Eliminar palabra">
+    </item>
+
+</menu>

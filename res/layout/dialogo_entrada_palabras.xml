@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvTablaSpainInsertar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/nombreTabla"
+        android:textColor="#55000000"
+        android:textSize="16sp" />
+
+    <ListView
+        android:id="@+id/lvTemas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp" />
+
+    <TextView
+        android:id="@+id/tvTablaSpainSeleccionada"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:textColor="#55000000" 
+        android:text="Tabla:"
+        android:textSize="16sp"/>
+
+    <TextView
+        android:id="@+id/tvEntradaPalabraSpain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/entradaTextoSpain"
+        android:textColor="#55000000"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/etEntradaPalabraSpain"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:hint="Escribir aquí.."
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/tvEntradaPalabraEnglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="20dp"
+        android:text="@string/entradaTextoEnglish"
+        android:textColor="#55000000"
+        android:textSize="16sp" />
+
+    <EditText
+        android:id="@+id/etEntradaPalabraEnglish"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="5dp"
+        android:hint="Escribir aquí.."
+        android:inputType="text" />
+
+</LinearLayout>

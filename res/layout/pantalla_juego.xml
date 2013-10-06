@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/layoutPantallaJuego"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/fondo"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tvTematica"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:text="TEMATICA"
+        android:textColor="@color/naranja"
+        android:textSize="36sp" />
+
+    <TextView
+        android:id="@+id/tvPalabraSpain"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+       
+        android:textColor="@color/naranja"
+        android:textSize="36sp" />
+
+    <ImageView
+        android:id="@+id/imgTema"
+        android:layout_width="120dp"
+        android:layout_height="120dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" 
+        android:src="@drawable/ocho"/>
+
+    <TextView
+        android:id="@+id/tvPalabraEnglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp"
+        android:textColor="@color/naranja"
+        android:textSize="36sp" />
+
+    <TableLayout
+        android:id="@+id/tlyLetras"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="10dp" >
+
+        <TableRow
+            android:id="@+id/trUno"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="a"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="b"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="c"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="d"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btE"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="e"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/trDos"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btF"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="f"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btG"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="g"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btH"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="h"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btI"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="i"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btJ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="j"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/trTres"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btK"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="k"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btL"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="l"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btM"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="m"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btN"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="n"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btNN"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="ñ"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/trCuatro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btO"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="o"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btP"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="p"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btQ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="q"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btR"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="r"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btS"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="s"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/trCinco"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btT"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="t"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btU"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="u"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btV"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="v"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btW"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="w"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btX"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="x"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+        </TableRow>
+
+        <TableRow
+            android:id="@+id/trSeis"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" >
+
+            <Button
+                android:id="@+id/btY"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.5"
+                android:text="y"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+
+            <Button
+                android:id="@+id/btZ"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_weight="2.5"
+                android:text="z"
+                android:textColor="@color/naranja"
+                android:textSize="20sp" />
+        </TableRow>
+    </TableLayout>
+
+    <TextView
+        android:id="@+id/tvAutor"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="20dp"
+        android:text="@string/autor"
+        android:textColor="@color/naranja"
+        android:textStyle="bold"
+        android:textSize="16sp" />
+
+</LinearLayout>
